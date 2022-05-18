@@ -1,2 +1,2 @@
 alx student
-finishing git assignment 
+update git
